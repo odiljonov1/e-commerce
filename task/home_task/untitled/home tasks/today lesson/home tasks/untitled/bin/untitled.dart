@@ -1,5 +1,5 @@
 import 'package:untitled/untitled.dart' as untitled;
 
-void main(List<String> arguments) {
+void main() {
   print('Hello world: ${untitled.calculate()}!');
 }
